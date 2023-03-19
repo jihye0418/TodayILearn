@@ -12,4 +12,5 @@ spring:
     cache: false
   jpa:
     open-in-view: false
-
+  profiles:
+    active: local
